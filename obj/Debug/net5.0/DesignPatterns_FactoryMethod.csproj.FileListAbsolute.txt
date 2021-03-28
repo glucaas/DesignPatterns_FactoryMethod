@@ -1,0 +1,16 @@
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\DesignPatterns_FactoryMethod.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\DesignPatterns_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\DesignPatterns_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\DesignPatterns_FactoryMethod.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\DesignPatterns_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\bin\Debug\net5.0\DesignPatterns_FactoryMethod.exe
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\bin\Debug\net5.0\DesignPatterns_FactoryMethod.deps.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\bin\Debug\net5.0\DesignPatterns_FactoryMethod.runtimeconfig.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\bin\Debug\net5.0\DesignPatterns_FactoryMethod.runtimeconfig.dev.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\bin\Debug\net5.0\DesignPatterns_FactoryMethod.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\bin\Debug\net5.0\ref\DesignPatterns_FactoryMethod.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\bin\Debug\net5.0\DesignPatterns_FactoryMethod.pdb
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\DesignPatterns_FactoryMethod.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\ref\DesignPatterns_FactoryMethod.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\DesignPatterns_FactoryMethod.pdb
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_FactoryMethod\obj\Debug\net5.0\DesignPatterns_FactoryMethod.genruntimeconfig.cache

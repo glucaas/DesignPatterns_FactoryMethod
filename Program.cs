@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using DesignPatterns_FactoryMethod.Dialog;
 
 namespace DesignPatterns_FactoryMethod
 {
@@ -6,7 +8,11 @@ namespace DesignPatterns_FactoryMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<DialogFactory> factories = new List<DialogFactory>{new WebDialog(),new WindownsDialog()};
+
+            factories.ForEach( fac => {
+                fac.Render();
+            });
         }
     }
 }
